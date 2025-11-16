@@ -166,12 +166,12 @@ export const messages = {
           {
             title: 'TikiData — Sports Performance Analytics',
             description: 'Power BI dashboard analyzing Al-Hilal club performance using predictive intelligence.',
-            repo: 'https://github.com/Eng-waadALqahtani/tikidata-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/TikiData'
           },
           {
             title: 'Accident Analysis Dashboard',
             description: 'Traffic and map data analysis to identify critical points and high-risk areas.',
-            repo: 'https://github.com/Eng-waadALqahtani/accident-bi-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/NLP_Project'
           },
           {
             title: 'Real Estate & Auctions Dashboard',
