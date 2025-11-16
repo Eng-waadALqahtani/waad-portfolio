@@ -37,56 +37,56 @@ export const messages = {
           {
             title: 'TikiData — منصة الذكاء الاصطناعي للرياضة',
             description: 'منصة تحليل رياضية مدعومة بالذكاء الاصطناعي تستخدم GPT-4o للتنبؤ بالمباريات وتحليل الخصوم وتقديم توصيات تكتيكية.',
-            repo: 'https://github.com/waad-alqahtani/tiki-data'
+            repo: 'https://github.com/Eng-waadALqahtani/tiki-data'
           },
           {
             title: 'AutoEncoder — تمثيل بصري ذكي للبيانات',
             description: 'مشروع تعلم عميق لضغط السمات والتمثيل البصري.',
-            repo: 'https://github.com/waad-alqahtani/autoencoder-visualization'
+            repo: 'https://github.com/Eng-waadALqahtani/autoencoder-visualization'
           },
           {
             title: 'GAN — توليد صور الأرقام والوجوه',
             description: 'تطبيق شبكات الخصومة التوليدية (GAN) باستخدام TensorFlow.',
-            repo: 'https://github.com/waad-alqahtani/gan-generator'
+            repo: 'https://github.com/Eng-waadALqahtani/gan-generator'
           },
           {
             title: 'Athar — نموذج ثلاثي الأبعاد + وكيل صوتي',
             description: 'نموذج تفاعلي للدرعية يجمع بين 3D وRAG ووكلاء صوتية عربية.',
-            repo: 'https://github.com/waad-alqahtani/athar-3d-ai-voice'
+            repo: 'https://github.com/Eng-waadALqahtani/athar-3d-ai-voice'
           }
         ],
         'معالجة اللغة الطبيعية': [
           {
             title: 'NLP بلاغات — تصنيف + تلخيص + توجيه',
             description: 'نظام متعدد المهام لتصنيف البلاغات وتلخيصها وتوجيهها.',
-            repo: 'https://github.com/waad-alqahtani/nlp-text2action'
+            repo: 'https://github.com/Eng-waadALqahtani/nlp-text2action'
           },
           {
             title: 'تحليل مشاعر التغريدات العربية',
             description: 'تحليل مشاعر التغريدات بدقة 89٪ باستخدام نماذج لغوية عربية.',
-            repo: 'https://github.com/waad-alqahtani/arabic-sentiment-analysis'
+            repo: 'https://github.com/Eng-waadALqahtani/arabic-sentiment-analysis'
           },
           {
             title: 'LLM Agent — Text Retrieval & Summarization',
             description: 'وكيل LLM يستخدم RAG لاستخراج وتلخيص النصوص تلقائيًا.',
-            repo: 'https://github.com/waad-alqahtani/llm-agent-rag'
+            repo: 'https://github.com/Eng-waadALqahtani/llm-agent-rag'
           }
         ],
         'لوحات البيانات': [
           {
             title: 'TikiData — منصة تحليل الأداء الرياضي',
             description: 'لوحة Power BI لتحليل أداء نادي الهلال باستخدام الذكاء التنبؤي.',
-            repo: 'https://github.com/waad-alqahtani/tikidata-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/tikidata-dashboard'
           },
           {
             title: 'لوحة تحليل الحوادث',
             description: 'تحليل بيانات المرور والخرائط لتحديد النقاط الحرجة والمناطق عالية الخطورة.',
-            repo: 'https://github.com/waad-alqahtani/accident-bi-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/accident-bi-dashboard'
           },
           {
             title: 'Dashboard العقارات والمزادات',
             description: 'لوحة Power BI تحليلية للمزادات والعقارات السعودية.',
-            repo: 'https://github.com/waad-alqahtani/real-estate-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/real-estate-dashboard'
           }
         ]
       }
@@ -127,56 +127,56 @@ export const messages = {
           {
             title: 'TikiData — AI-Powered Sports Analytics Platform',
             description: 'Comprehensive AI-powered sports analytics platform using GPT-4o for match predictions, opponent analysis, and tactical recommendations.',
-            repo: 'https://github.com/waad-alqahtani/tiki-data'
+            repo: 'https://github.com/Eng-waadALqahtani/tiki-data'
           },
           {
             title: 'AutoEncoder — Smart Visual Representation',
             description: 'Deep learning project for feature compression and visualization.',
-            repo: 'https://github.com/waad-alqahtani/autoencoder-visualization'
+            repo: 'https://github.com/Eng-waadALqahtani/autoencoder-visualization'
           },
           {
             title: 'GAN — Digit & Face Image Generation',
             description: 'Generative Adversarial Network (GAN) application using TensorFlow.',
-            repo: 'https://github.com/waad-alqahtani/gan-generator'
+            repo: 'https://github.com/Eng-waadALqahtani/gan-generator'
           },
           {
             title: 'Athar — 3D Model + Voice Agent',
             description: 'Interactive Diriyah model combining 3D, RAG, and Arabic voice agents.',
-            repo: 'https://github.com/waad-alqahtani/athar-3d-ai-voice'
+            repo: 'https://github.com/Eng-waadALqahtani/athar-3d-ai-voice'
           }
         ],
         'Natural Language Processing': [
           {
             title: 'NLP Reports — Classify + Summarize + Route',
             description: 'Multi-task system for report classification, summarization, and routing.',
-            repo: 'https://github.com/waad-alqahtani/nlp-text2action'
+            repo: 'https://github.com/Eng-waadALqahtani/nlp-text2action'
           },
           {
             title: 'Arabic Tweet Sentiment Analysis',
             description: 'Arabic tweet sentiment analysis achieving 89% accuracy using Arabic language models.',
-            repo: 'https://github.com/waad-alqahtani/arabic-sentiment-analysis'
+            repo: 'https://github.com/Eng-waadALqahtani/arabic-sentiment-analysis'
           },
           {
             title: 'LLM Agent — Text Retrieval & Summarization',
             description: 'LLM agent using RAG for automatic text extraction and summarization.',
-            repo: 'https://github.com/waad-alqahtani/llm-agent-rag'
+            repo: 'https://github.com/Eng-waadALqahtani/llm-agent-rag'
           }
         ],
         'Data Dashboards': [
           {
             title: 'TikiData — Sports Performance Analytics',
             description: 'Power BI dashboard analyzing Al-Hilal club performance using predictive intelligence.',
-            repo: 'https://github.com/waad-alqahtani/tikidata-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/tikidata-dashboard'
           },
           {
             title: 'Accident Analysis Dashboard',
             description: 'Traffic and map data analysis to identify critical points and high-risk areas.',
-            repo: 'https://github.com/waad-alqahtani/accident-bi-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/accident-bi-dashboard'
           },
           {
             title: 'Real Estate & Auctions Dashboard',
             description: 'Analytical Power BI dashboard for Saudi auctions and real estate.',
-            repo: 'https://github.com/waad-alqahtani/real-estate-dashboard'
+            repo: 'https://github.com/Eng-waadALqahtani/real-estate-dashboard'
           }
         ]
       }
